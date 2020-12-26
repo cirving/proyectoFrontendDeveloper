@@ -1,0 +1,11 @@
+header{
+    background:rgb(117, 7, 117);
+    padding:20px;
+    color:#fff;
+}
+p:nth-child(2n+1){
+    color: red;
+}
+p:nth-child(2n){
+    color:brown;
+}
